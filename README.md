@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me:  
 - 📋 **Resume**: Check out my resume [**here**](#)  
 - 💬 **Ask me about**: Machine Learning, Data Science, Artificial Intelligence, and Data-Driven Business Solutions  
-- 📫 **Reach me at**: [alsadeq.albaraa@gmail.com](mailto:alsadeq.albaraa@gmail.com) | **+96279891693**  
+- 📫 **Reach me at**: [alsadeq.albaraa@gmail.com](mailto:alsadeq.albaraa@gmail.com) | **+962798891693**  
 - ⚡ **Fun fact**: I enjoy applying AI solutions to real-world problems and enhancing brand identity through creative design strategies.  
 
 ---
