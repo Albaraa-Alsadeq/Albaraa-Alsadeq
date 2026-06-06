@@ -26,7 +26,7 @@
   <a href="https://www.kaggle.com/albaraaalsadeq" target="_blank">  
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle - Albaraa Alsadeq" height="40" width="40" />  
   </a>  
-  <a href="https://wa.me/+96279891693" target="_blank">  
+  <a href="https://wa.me/+962798891693" target="_blank">  
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp - Albaraa Alsadeq" height="40" width="40" />  
   </a>  
 </p>  
